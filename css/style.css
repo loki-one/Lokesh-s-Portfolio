@@ -5,6 +5,29 @@ body {
   font-weight: 300;
 }
 
+a {
+  color: #747704;
+  font-size: 25px;
+  color: #F8981C;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    margin-top: -1px;
+    /* Set the hr color */
+    color:  #BCBBBB; /* old IE */
+    background-color: #BCBBBB; /* Modern Browsers */
+}
+
+summary {
+  margin-bottom: 20px;
+}
+
+footer {
+  margin-top: 20px;
+}
+
 .text-thin {
   font-weight: 100;
 }
@@ -14,10 +37,20 @@ body {
 }
 
 .title-super {
-  font-size: 60px;
+  font-size: 35px;
 }
 
 #my-photo {
   border-radius: 50%;
   width: 25%;
+  margin-bottom: 25px;
+  margin-top: 15px;
+}
+
+#featured-work {
+  margin-bottom: 20px;
+}
+
+#social-profile {
+  margin-top: 5px;
 }
