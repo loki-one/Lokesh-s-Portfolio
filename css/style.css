@@ -5,12 +5,6 @@ body {
   font-weight: 300;
 }
 
-a {
-  color: #747704;
-  font-size: 25px;
-  color: #F8981C;
-}
-
 hr {
     border: none;
     height: 1px;
@@ -51,6 +45,23 @@ footer {
   margin-bottom: 20px;
 }
 
-#social-profile {
-  margin-top: 5px;
+.tabs {
+  font-size: 25px;
+  color: #F8981C;
+}
+
+.ion-social-linkedin, .ion-social-github {
+  font-size: 50px;
+  margin-left: 40px;
+  margin-right: 40px;
+  color: black;
+}
+
+#xing {
+  font-weight: bold;
+  color: black;
+  font-size: 40px;
+  padding-top:15px;
+  margin-left: 40px;
+  margin-right: 40px
 }
