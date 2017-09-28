@@ -34,17 +34,6 @@ footer {
   font-size: 35px;
 }
 
-#my-photo {
-  border-radius: 50%;
-  width: 25%;
-  margin-bottom: 25px;
-  margin-top: 15px;
-}
-
-#featured-work {
-  margin-bottom: 20px;
-}
-
 .tabs {
   font-size: 25px;
   color: #F8981C;
@@ -64,4 +53,25 @@ footer {
   padding-top:15px;
   margin-left: 40px;
   margin-right: 40px
+}
+
+#my-photo {
+  border-radius: 50%;
+  width: 25%;
+  margin-bottom: 25px;
+  margin-top: 15px;
+}
+
+#featured-work {
+  margin-bottom: 20px;
+}
+
+#intro {
+  font-size: 18px;
+}
+
+#cv {
+  background-color: #BCBBBB;
+  border-color: #BCBBBB;
+  font-weight: bold;
 }
